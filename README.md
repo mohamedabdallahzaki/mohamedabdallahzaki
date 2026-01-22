@@ -1,82 +1,109 @@
-# Mohamed Abdallah Zaki - Full Stack .NET Developer
+# Hi there, I'm Mohamed Abdallah Zaki 👋
 
-![Profile Photo](https://via.placeholder.com/150)  <!-- ضع رابط صورتك هنا -->
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdallah-zaki-4a92ab229/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedabdallahzaki)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabdallah1542001@gmail.com)
 
-Hi! I'm Mohamed, a passionate Full Stack .NET Developer from Egypt. I specialize in .NET, Angular, SQL, Azure, and modern web development technologies. I love building clean, scalable, and maintainable applications.
+</div>
 
----
+## 🚀 About Me
 
-## 🔹 Skills & Progress
+Full Stack .NET Developer from Cairo, Egypt, passionate about building scalable web applications and RESTful APIs. I specialize in creating robust backend systems with ASP.NET Core and dynamic frontends with Angular. Detail-oriented, adaptable, and committed to writing clean, maintainable code.
 
-### Backend
-- C# / .NET Core  
-  ![C#](https://img.shields.io/badge/C%23-90%25-brightgreen)
-- ASP.NET Core Web API / MVC  
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-85%25-brightgreen)
-- Entity Framework Core / LINQ  
-  ![EF Core](https://img.shields.io/badge/EF_Core-80%25-brightgreen)
-- SQL Server / Stored Procedures / Triggers  
-  ![SQL](https://img.shields.io/badge/SQL_Server-80%25-brightgreen)
-- JWT Authentication & Authorization  
-  ![JWT](https://img.shields.io/badge/JWT-85%25-brightgreen)
-- Azure Services (AD, Key Vault, Feature Flags)  
-  ![Azure](https://img.shields.io/badge/Azure-75%25-brightgreen)
-
-### Frontend
-- Angular 18/20  
-  ![Angular](https://img.shields.io/badge/Angular-85%25-red)
-- TypeScript / HTML / CSS / Tailwind  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue)
-- Reactive Forms / Signals / Routing / Guards  
-  ![Angular Forms](https://img.shields.io/badge/Forms-80%25-blue)
-
-### Full Stack & Tools
-- Git / GitHub / Azure DevOps  
-  ![Git](https://img.shields.io/badge/Git-85%25-orange)
-- Firebase Authentication & Database  
-  ![Firebase](https://img.shields.io/badge/Firebase-75%25-yellow)
-- Razor Pages / Windows Forms Applications  
-  ![Razor](https://img.shields.io/badge/Razor-75%25-blueviolet)
-- Clean Code / SOLID / OOP / Extension Methods  
-  ![OOP](https://img.shields.io/badge/OOP-90%25-brightgreen)
+- 🎓 Computer Science graduate from Beni Suef University
+- 💼 Experienced in developing full-stack educational platforms and e-commerce systems
+- 🌱 Currently exploring microservices architecture and cloud technologies
+- 💡 Strong problem-solving skills with a focus on modern development practices
 
 ---
 
-## 📂 Projects
+## 🛠️ Technical Skills
 
-### 1. E-Commerce Platform
-- Customer/Admin roles, Product management, Cart, Checkout  
-- Local Storage & Firebase integration  
-[View Project](#)
+### Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 2. Digital Notes Manager
-- CRUD notes, LINQ, Entity Framework Core  
-- Type-safe Models & DTOs  
-[View Project](#)
+### Frontend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 3. Angular Products App
-- Products from REST API, Cart Management  
-- Standalone components & Signals  
-[View Project](#)
+### Microservices & Cloud
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 4. Online Education Platform
-- Teacher/Student roles, File & Video Upload  
-- Razor Pages + Angular integration  
-[View Project](#)
-
-### 5. Clinic Management System (MVC)
-- Doctor info, Appointments  
-- SQL Server backend  
-[View Project](#)
-
----
-
-## 📫 Contact Me
-
-- **Email:** [your-email@example.com]  
-- **GitHub:** [https://github.com/mohamedabdallahzaki](https://github.com/mohamedabdallahzaki)  
-- **LinkedIn:** [https://linkedin.com/in/mohamedabdallahzaki](https://linkedin.com/in/mohamedabdallahzaki)
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-> “Strive for progress, not perfection.”
+## 💼 Featured Projects
+
+### 🏢 Microservices E-Commerce Platform
+**Tech Stack:** ASP.NET Core, Docker, RabbitMQ, Ocelot, Redis, MongoDB, SQL Server
+
+- Implemented Database-per-Service pattern with multiple databases
+- Built API Gateway using Ocelot for routing and authentication
+- Containerized services with Docker and Docker Compose
+- Asynchronous inter-service communication with RabbitMQ
+- Service monitoring and logging with Serilog
+
+[View Repository →](https://github.com/mohamedabdallahzaki)
+
+---
+
+## 🎯 Soft Skills
+
+- 🧩 Problem Solving
+- 👥 Leadership & Teamwork
+- 🎤 Presentation Skills
+- 📚 Eager to Learn & Self-Motivated
+- 🌍 Languages: Arabic (Native), English (Intermediate)
+
+---
+
+## 📜 Certifications
+
+**ITI Full Stack .NET Web Development** - July 2025
+- JavaScript, HTML5 & CSS3, Bootstrap
+- Angular, SQL, Entity Framework, LINQ
+- Completed final project
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- 📧 Email: mohamedabdallah1542001@gmail.com
+- 💼 LinkedIn: [Mohamed Abdallah Zaki](https://www.linkedin.com/in/mohamed-abdallah-zaki-4a92ab229/)
+- 📱 Phone: +01022083479
+- 📍 Location: Cairo, Egypt
+
+---
+
+<div align="center">
+
+### 💭 Quote I Live By
+
+> "Strive for progress, not perfection."
+
+**⭐ If you find my work interesting, feel free to star my repositories!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedabdallahzaki&color=brightgreen)
+
+</div>
