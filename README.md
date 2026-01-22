@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Mohamed Abdallah Zaki , I,m Full Stack .Net Developer
+# 🚀 Mohamed Abdallah Zaki
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+.NET+Developer;Microservices+Architect;Angular+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabdallah1542001@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 
 </div>
 
@@ -94,7 +94,7 @@ public class Developer
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -278,13 +278,17 @@ gantt
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 
-<div align="center">
+<!--
+Note: To enable the snake animation, you need to:
+1. Go to your profile repository settings
+2. Enable GitHub Actions
+3. Create .github/workflows/snake.yml with the snake generation action
+For now, this section shows your contribution calendar
+-->
 
-![Snake animation](https://github.com/mohamedabdallahzaki/mohamedabdallahzaki/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<img src="https://ghchart.rshah.org/00D9FF/mohamedabdallahzaki" alt="Contribution Graph" width="100%" />
 
 ---
 
@@ -322,9 +326,9 @@ gantt
 
 ### 💭 Philosophy
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
 > **"Strive for progress, not perfection."**
+> 
+> *— Building better software, one commit at a time*
 
 ---
 
@@ -336,7 +340,7 @@ gantt
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
 ### ⭐ If you find my work interesting, don't forget to star my repositories!
 
