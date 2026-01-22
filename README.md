@@ -1,13 +1,12 @@
 <div align="center">
 
-# 🚀 Mohamed Abdallah Zaki
+# 🚀 Mohamed Abdallah Zaki Full Stack .Net
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+.NET+Developer;Microservices+Architect;Angular+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdallah-zaki-4a92ab229/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedabdallahzaki)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabdallah1542001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 
@@ -40,7 +39,7 @@ public class Developer
 
 ### 💡 Current Focus
 🔭 Building distributed microservices systems  
-🌱 Mastering Azure Cloud & DevOps  
+🌱 Learing Azure Cloud 
 👯 Looking to collaborate on open-source .NET projects  
 💬 Ask me about C#, ASP.NET Core, Angular, or Microservices  
 ⚡ Fun fact: I debug faster with coffee ☕  
@@ -80,7 +79,7 @@ public class Developer
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ocelot](https://img.shields.io/badge/Ocelot-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Cloud & DevOps
+### Cloud 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -211,7 +210,6 @@ public class Developer
 
 Explore more of my work including:
 - Web APIs
-- Desktop Applications
 - Frontend Projects
 - And much more!
 
